@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: book-catalog
-        image: saloni
+        image: s223561464947/saloni:latest  # Update this line
         ports:
         - containerPort: 8000
